@@ -1,4 +1,4 @@
-% Code for the implementation of a Six-Port Reflectometer
+% Code for the implementation of a Six-Port Reflectometer in MATLAB
 % An Alternative Design of a Compact and Portable Six-Port Reflectometer for 2.4 GHz Reflection Coefficient Measurements
 % IEEE Latin America Transactions
 
